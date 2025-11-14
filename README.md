@@ -16,7 +16,7 @@
         <p>❤️ <strong>Passionate about coding!</strong></p>
 
 - 📫 How to reach me **vishalchavanv96@gmail.com**
-- 👨‍💻 All of my projects are available at [https://vishalchavan2527.github.io/My-Portfolio-/](https://vishalchavan2527.github.io/My-Portfolio-/)
+- 👨‍💻 All of my projects are available at [https://vishalchavan2527.github.io/My-Portfolio-/](https://vishal-portfolio-rplw.vercel.app/)
 
 
  <h2>🌐 Socials</h2>
